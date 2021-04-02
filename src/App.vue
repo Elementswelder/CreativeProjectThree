@@ -24,7 +24,7 @@
     <router-view/>
   </div>
   <div class="footer">
-    <p><a href="https://github.com/Elementswelder/CreativeprojectTwo.git">Github Link</a></p>
+    <p><a href="https://github.com/Elementswelder/CreativeProjectThree">Github Link</a></p>
   </div>
   </div>
 
